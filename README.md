@@ -5,7 +5,7 @@ Bombadillo is a simple invented language inspired by the songs and speech of Tom
 # Sample
 
 ```
-Inderry bender ber nun ringdarry
+Inderry bower ber nun ringdarry
 Rindallo bombadillo bel
 Delloden ar nevenden
 ```
@@ -53,7 +53,7 @@ Noun stems generally end with consonants, in order to work with noun endings wit
 +---------------+-----------------------------------------------+
 | ind-          | tree                                          |
 | din-          | sunlight                                      |
-| bend-         | crack, gap                                    |
+| bow-          | crack, gap, hole                              |
 | pin-          | pine needle, blade of grass                   |
 | vin-          | scent, mist, fog                              |
 | brend-        | bark, skin                                    |
@@ -86,6 +86,7 @@ Adjectives always come before the noun the accompany, and only take singular end
 | fan-          | tall, long                                    |
 | dood-         | fat, soft, wooly                              |
 | wil-          | sharp, crunchy, abrasive                      |
+| send-         | quiet, peaceful                               |
 +---------------+-----------------------------------------------+
 ```
 
@@ -95,6 +96,7 @@ Verb stems generally end with vowels, in order to work with verb endings without
 
 ```
 +---------------+-----------------------------------------------+
+| way-          | is, are, be, like, as                         |
 | orba-         | let, may (takes dative)                       |
 | dello-        | sink, descend, fade, sleep                    |
 | bello-        | ascend, awaken, grow                          |
@@ -114,6 +116,7 @@ Verb stems generally end with vowels, in order to work with verb endings without
 | dil-          | again, repeatedly                             |
 | sun-          | deeply, thickly                               |
 | sim-          | barely, lightly, slightly                     |
+| til-          | together                                      |
 +---------------+-----------------------------------------------+
 ```
 
@@ -122,14 +125,14 @@ Verb stems generally end with vowels, in order to work with verb endings without
 Objects of prepositions may take any case, depending on the preposition. Case is listed below. Many english prepositions don't exist in Bombadillo, and instead are represented with some ambuguity by noun case alone.
 
 ```
-+--------+---------+-----------------+
-| er     | abl.    | between         |
-| oma    | dat.    | into            |
-| nen    | abl.    | above           |
-| nun    | abl.    | under, below    |
-| -      | gen.    | in, on, among   |
-| -      | abl.    | when, where     |
-+--------+---------+-----------------+
++--------+---------+-----------------------+
+| er     | abl.    | between               |
+| oma    | dat.    | into                  |
+| nen    | abl.    | above                 |
+| nun    | abl.    | under, below          |
+| -      | gen.    | in, on, among, with   |
+| -      | abl.    | when, where           |
++--------+---------+-----------------------+
 ```
 
 ## Conjunctions
