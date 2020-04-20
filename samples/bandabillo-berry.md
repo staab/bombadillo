@@ -1,7 +1,7 @@
 ```
-nevendil vinello pinerry
-nevendil dinello ringderry
-nevendil tundrello ber doodel humbello
+nevendim vinello pinerry
+nevendim dinello ringderry
+nevendim tundrello ber doodel humbello
 bandadillo berry dilbillo
 ```
 

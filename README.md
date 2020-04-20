@@ -29,8 +29,8 @@ Declension                            Conjugation
 
              S.   P.                                 S.     P.
            +-----+-------+                           +------+--------+
-Nominative | -al | -allo |            1st/3rd Person | -bil | -billo |
-Genitive   | -er | -erry |                2nd Person | -dil | -dillo |
+Nominative | -al | -allo |            1st/3rd Person | -bim | -billo |
+Genitive   | -er | -erry |                2nd Person | -dim | -dillo |
 Dative     | -o  | -or   |                           +------+--------+
 Accusative | -el | -ello |
 Ablative   | -ar | -arry |                Infinitive   -den
