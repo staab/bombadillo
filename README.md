@@ -55,12 +55,13 @@ Noun stems generally end with consonants, in order to work with noun endings wit
 | din-          | sunlight                                      |
 | bend-         | crack, gap                                    |
 | pin-          | pine needle, blade of grass                   |
-| vin-          | scent, odor, mist, fog                        |
+| vin-          | scent, mist, fog                              |
 | brend-        | bark, skin                                    |
 | ringd-        | sky, clear air                                |
 | humb-         | dirt, ground, humus                           |
 | sind-         | fellow, person, animal                        |
 | roon-         | fruit, produce                                |
+| tundr-        | foot, leg                                     |
 +---------------+-----------------------------------------------+
 ```
 
@@ -84,6 +85,7 @@ Adjectives always come before the noun the accompany, and only take singular end
 | sim-          | shallow, thin                                 |
 | fan-          | tall, long                                    |
 | dood-         | fat, soft, wooly                              |
+| wil-          | sharp, crunchy, abrasive                      |
 +---------------+-----------------------------------------------+
 ```
 
@@ -97,10 +99,11 @@ Verb stems generally end with vowels, in order to work with verb endings without
 | dello-        | sink, descend, fade, sleep                    |
 | bello-        | ascend, awaken, grow                          |
 | bomba-        | sing, call, shout, beckon                     |
+| banda-        | dance, jump                                   |
 | winte-        | weave, mix, confuse                           |
 | gro-          | hold, restrain, cherish                       |
 | dar-          | shine, emit, produce, bear                    |
-| neven-        | see, dream                                    |
+| neven-        | see, dream, smell, taste, touch               |
 +---------------+-----------------------------------------------+
 ```
 
