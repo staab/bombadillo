@@ -4,17 +4,17 @@ Bombadillo is a simple invented language inspired by the songs and speech of Tom
 
 # Sample
 
-> Inderry bender nun ringdarry
-> Rindallo bombadillo bel
-> Delloden ar nevenden
+Inderry bender nun ringdarry
+Rindallo bombadillo bel
+Delloden ar nevenden
 
 Translation:
 
-> In the hollow of a tree, under the sky
-> Wind, beckon me
-> To sleep and dream
+In the hollow of a tree, under the sky
+Wind, beckon me
+To sleep and dream
 
-You can find more in the samples directory.
+You can find more in the [samples](tree/master/samples) directory.
 
 # Grammar
 
@@ -39,12 +39,13 @@ Subordinate clauses, whether object, object of the preposition, or adverbial cla
 
 # Vocabulary
 
-Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things are referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sunal brendal vinello winteden". An old-growth pine could be "tall needle-holder", or "fanal pinello groden". A squirrel might be a "doodal sindal bomden", or "talkative fat fellow".
+Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sunal brendal vinello winteden". An old-growth pine could be "tall needle-holder", or "fanal pinello groden". A squirrel might be a "doodal sindal bomden", or "talkative fat fellow".
 
 ## Nouns
 
 Noun stems generally end with consonants, in order to work with noun endings without complex morphology. Non-discrete nouns take plural endings, rather than singular.
 
+```
 +---------------+-----------------------------------------------+
 | ind-          | tree                                          |
 | din-          | sunlight                                      |
@@ -57,18 +58,22 @@ Noun stems generally end with consonants, in order to work with noun endings wit
 | sind-         | fellow, person, animal                        |
 | roon-         | fruit, produce                                |
 +---------------+-----------------------------------------------+
+```
 
 ## Pronouns
 
+```
 +---------------+-----------------------------------------------+
 | b-            | me, he, she, it, they                         |
 | d-            | you                                           |
 +---------------+-----------------------------------------------+
+```
 
 ## Adjectives
 
 Adjectives always come before the noun the accompany, and only take singular endings.
 
+```
 +---------------+-----------------------------------------------+
 | en-           | new, nascent, fresh                           |
 | sun-          | deep, thick                                   |
@@ -76,11 +81,13 @@ Adjectives always come before the noun the accompany, and only take singular end
 | fan-          | tall, long                                    |
 | dood-         | fat, soft, wooly                              |
 +---------------+-----------------------------------------------+
+```
 
 ## Verbs
 
 Verb stems generally end with vowels, in order to work with verb endings without complex morphology.
 
+```
 +---------------+-----------------------------------------------+
 | orba-         | let, may (takes dative)                       |
 | dello-        | sink, descend, fade, sleep                    |
@@ -91,19 +98,23 @@ Verb stems generally end with vowels, in order to work with verb endings without
 | dar-          | shine, emit, produce, bear                    |
 | neven-        | see, dream                                    |
 +---------------+-----------------------------------------------+
+```
 
 ## Adverbs
 
+```
 +---------------+-----------------------------------------------+
 | dil-          | again, repeatedly                             |
 | sun-          | deeply, thickly                               |
 | sim-          | barely, lightly, slightly                     |
 +---------------+-----------------------------------------------+
+```
 
 ## Prepositions
 
 Objects of prepositions may take any case, depending on the preposition. Case is listed below. Many english prepositions don't exist in Bombadillo, and instead are represented with some ambuguity by noun case alone.
 
+```
 +--------+---------+-----------------+
 | er     | abl.    | between         |
 | oma    | dat.    | into            |
@@ -112,14 +123,17 @@ Objects of prepositions may take any case, depending on the preposition. Case is
 | -      | gen.    | in, on, among   |
 | -      | abl.    | when, where     |
 +--------+---------+-----------------+
+```
 
 ## Conjunctions
 
+```
 +--------+------+
 | ar     | and  |
 | aught  | or   |
 | ith    | not  |
 +--------+------+
+```
 
 # Contributing
 
