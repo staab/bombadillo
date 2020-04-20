@@ -18,7 +18,7 @@ Wind, beckon me
 To sleep and dream
 ```
 
-You can find more in the [samples](tree/master/samples) directory.
+You can find more in the [samples](https://github.com/staab/bombadillo/tree/master/samples) directory.
 
 # Grammar
 
