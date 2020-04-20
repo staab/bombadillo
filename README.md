@@ -6,7 +6,7 @@ Bombadillo is a simple invented language inspired by the songs and speech of Tom
 
 ```
 O inderry bower ber nun ringdarry
-Rindallo bombadillo bel
+Rindar bombadillo bel
 Delloden ar nevenden
 ```
 
@@ -29,7 +29,7 @@ Declension                            Conjugation
 
              S.   P.                                 S.     P.
            +-----+-------+                           +------+--------+
-Nominative | -al | -allo |            1st/3rd Person | -bim | -billo |
+Nominative | -a  | -ar   |            1st/3rd Person | -bim | -billo |
 Genitive   | -er | -erry |                2nd Person | -dim | -dillo |
 Dative     | -o  | -or   |                           +------+--------+
 Accusative | -el | -ello |
@@ -37,13 +37,13 @@ Ablative   | -ar | -arry |                Infinitive   -den
            +-----+-------+
 ```
 
-So, for example, using the words for "sing, trees!", bomba- and ind-, you'd use the nominative plural noun ending, and the second person plural verb ending, ending up with "bombadillo, indallo!".
+So, for example, using the words for "sing, trees!", bomba- and ind-, you'd use the nominative plural noun ending, and the second person plural verb ending, ending up with "bombadillo, indar!".
 
 Subordinate clauses, whether object, object of the preposition, or adverbial clauses always use the infinitive, and sort of daisy chain case, so an object can be the subject in a dependent clause and retain its accusative ending, and the object of the subordinate clause would also be accusative. For example, "The tree [nom] grows [3rd person singular] leaves [acc], which house [infinitive] caterpillars [acc]".
 
 # Vocabulary
 
-Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sunal brendal vinello twinden". An old-growth pine could be "tall needle-holder", or "fanal pinello groden". A squirrel might be a "doodal sindal bomden", or "talkative fat fellow".
+Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sun brendar vinello twinden". An old-growth pine could be "tall needle-holder", or "fan pinello groden". A squirrel might be a "dubb sinda bomden", or "talkative fat fellow".
 
 ## Nouns
 
@@ -59,7 +59,7 @@ Non-discrete nouns take plural endings, rather than singular.
 | vin-          | scent, mist, fog                              |
 | brend-        | bark, skin                                    |
 | ringd-        | sky, clear air                                |
-| humb-         | dirt, ground, humus                           |
+| rum-          | dirt, ground, humus                           |
 | sind-         | fellow, person, animal                        |
 | roon-         | fruit, produce                                |
 | tundr-        | foot, leg                                     |
@@ -67,6 +67,8 @@ Non-discrete nouns take plural endings, rather than singular.
 ```
 
 ## Pronouns
+
+If a pronoun + its ending ends in a vowel, and the following word begins with a vowel, the ending may be omitted and the pronoun elided into the following word, e.g. da orbadillo -> d'orbadillo.
 
 ```
 +---------------+-----------------------------------------------+
@@ -85,7 +87,7 @@ Adjectives always come before the noun they accompany, and only take singular en
 | sun-          | deep, thick                                   |
 | sim-          | shallow, thin                                 |
 | fan-          | tall, long                                    |
-| dood-         | fat, soft, wooly                              |
+| dubb-         | fat, soft, wooly                              |
 | wil-          | sharp, crunchy, abrasive                      |
 | send-         | quiet, peaceful                               |
 +---------------+-----------------------------------------------+
