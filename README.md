@@ -4,15 +4,19 @@ Bombadillo is a simple invented language inspired by the songs and speech of Tom
 
 # Sample
 
+```
 Inderry bender nun ringdarry
 Rindallo bombadillo bel
 Delloden ar nevenden
+```
 
 Translation:
 
+```
 In the hollow of a tree, under the sky
 Wind, beckon me
 To sleep and dream
+```
 
 You can find more in the [samples](tree/master/samples) directory.
 
