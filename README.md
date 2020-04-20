@@ -5,7 +5,7 @@ Bombadillo is a simple invented language inspired by the songs and speech of Tom
 # Sample
 
 ```
-Inderry bower ber nun ringdarry
+O inderry bower ber nun ringdarry
 Rindallo bombadillo bel
 Delloden ar nevenden
 ```
@@ -43,16 +43,17 @@ Subordinate clauses, whether object, object of the preposition, or adverbial cla
 
 # Vocabulary
 
-Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sunal brendal vinello winteden". An old-growth pine could be "tall needle-holder", or "fanal pinello groden". A squirrel might be a "doodal sindal bomden", or "talkative fat fellow".
+Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sunal brendal vinello twinden". An old-growth pine could be "tall needle-holder", or "fanal pinello groden". A squirrel might be a "doodal sindal bomden", or "talkative fat fellow".
 
 ## Nouns
 
-Noun stems generally end with consonants, in order to work with noun endings without complex morphology. Non-discrete nouns take plural endings, rather than singular.
+Non-discrete nouns take plural endings, rather than singular.
 
 ```
 +---------------+-----------------------------------------------+
 | ind-          | tree                                          |
 | din-          | sunlight                                      |
+| warp-         | dew, rain                                     |
 | bow-          | crack, gap, hole                              |
 | pin-          | pine needle, blade of grass                   |
 | vin-          | scent, mist, fog                              |
@@ -76,7 +77,7 @@ Noun stems generally end with consonants, in order to work with noun endings wit
 
 ## Adjectives
 
-Adjectives always come before the noun the accompany, and only take singular endings.
+Adjectives always come before the noun they accompany, and only take singular endings.
 
 ```
 +---------------+-----------------------------------------------+
@@ -92,8 +93,6 @@ Adjectives always come before the noun the accompany, and only take singular end
 
 ## Verbs
 
-Verb stems generally end with vowels, in order to work with verb endings without complex morphology.
-
 ```
 +---------------+-----------------------------------------------+
 | way-          | is, are, be, like, as                         |
@@ -102,7 +101,7 @@ Verb stems generally end with vowels, in order to work with verb endings without
 | bello-        | ascend, awaken, grow                          |
 | bomba-        | sing, call, shout, beckon                     |
 | banda-        | dance, jump                                   |
-| winte-        | weave, mix, confuse                           |
+| twin-         | weave, mix, confuse                           |
 | gro-          | hold, restrain, cherish                       |
 | dar-          | shine, emit, produce, bear                    |
 | neven-        | see, dream, smell, taste, touch               |
@@ -122,7 +121,7 @@ Verb stems generally end with vowels, in order to work with verb endings without
 
 ## Prepositions
 
-Objects of prepositions may take any case, depending on the preposition. Case is listed below. Many english prepositions don't exist in Bombadillo, and instead are represented with some ambuguity by noun case alone.
+Objects of prepositions may take any case, depending on the preposition. Case is listed below. Prepositions are optional, and may be omitted.
 
 ```
 +--------+---------+-----------------------+
@@ -130,8 +129,8 @@ Objects of prepositions may take any case, depending on the preposition. Case is
 | oma    | dat.    | into                  |
 | nen    | abl.    | above                 |
 | nun    | abl.    | under, below          |
-| -      | gen.    | in, on, among, with   |
-| -      | abl.    | when, where           |
+| o      | gen.    | in, on, among, with   |
+| a      | abl.    | when, where           |
 +--------+---------+-----------------------+
 ```
 

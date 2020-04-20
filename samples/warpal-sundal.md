@@ -1,9 +1,9 @@
 ```
-nevendil ber
+nevendil o ber
   dellodil oma brender ber
-  wintedil ringder ber
-  bellodil ber
-dinarry bandabillo sender bower
+  twindil o ringder ber
+  bellodil o ber
+a dinarry bandabillo o sender bower
 dellobillo way warpal sundal humballo
 ```
 

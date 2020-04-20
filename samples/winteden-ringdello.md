@@ -1,7 +1,7 @@
 ```
-simal humballo ith dellodillo
+sunal humballo ith dellodillo
 orbadillo bor bellobillo del
-ar wintedillo ringdello oma dor
+ar twindillo ringdello oma dor
 dal orbadillo darden roonello
 ar belloden berry
 ```
