@@ -1,6 +1,6 @@
 > Tom sang most of the time, but it was chiefly nonsense, or else perhaps a strange language unknown to the hobbits, an ancient language whose words were mainly those of wonder and delight.
 
-Bombadillo is a simple invented language inspired by the songs and speech of Tom Bombadil, from The Lord of the Rings. "Bombadillo" means song, and should be spoken in a musical, full, [woody](http://montypython.50webs.com/scripts/Series_4/23.htm) way, with a bias toward Anapestic emphasis (u u /, e.g., "understand").
+Bombadillo is a simple invented language inspired by the [songs](https://allpoetry.com/Tom-Bombadil's-Song) and speech of Tom Bombadil, from The Lord of the Rings. "Bombadillo" means song, and should be spoken in a musical, full, [woody](http://montypython.50webs.com/scripts/Series_4/23.htm) way, with a bias toward Anapestic emphasis (u u /, e.g., "understand").
 
 # Sample
 
@@ -56,13 +56,14 @@ Non-discrete nouns take plural endings, rather than singular.
 | warp-         | dew, rain                                     |
 | bow-          | crack, gap, hole                              |
 | pin-          | pine needle, blade of grass                   |
-| vin-          | scent, mist, fog                              |
+| vint-         | scent, mist, fog                              |
 | brend-        | bark, skin                                    |
 | ringd-        | sky, clear air                                |
 | rum-          | dirt, ground, humus                           |
 | sind-         | fellow, person, animal                        |
 | roon-         | fruit, produce                                |
 | tundr-        | foot, leg                                     |
+| fal-          | flower, shrub                                 |
 +---------------+-----------------------------------------------+
 ```
 
@@ -87,8 +88,8 @@ Adjectives always come before the noun they accompany, and only take singular en
 | sun-          | deep, thick                                   |
 | sim-          | shallow, thin                                 |
 | fan-          | tall, long                                    |
-| dubb-         | fat, soft, wooly                              |
-| wil-          | sharp, crunchy, abrasive                      |
+| mi-           | little                                        |
+| dubb-         | springy, soft                                 |
 | send-         | quiet, peaceful                               |
 +---------------+-----------------------------------------------+
 ```
@@ -103,10 +104,12 @@ Adjectives always come before the noun they accompany, and only take singular en
 | bello-        | ascend, awaken, grow                          |
 | bomba-        | sing, call, shout, beckon                     |
 | banda-        | dance, jump                                   |
+| follawil-     | dig, burrow                                   |
 | twin-         | weave, mix, confuse                           |
 | gro-          | hold, restrain, cherish                       |
 | dar-          | shine, emit, produce, bear                    |
 | neven-        | see, dream, smell, taste, touch               |
+| lil-          | wear, wrap oneself in                         |
 +---------------+-----------------------------------------------+
 ```
 
