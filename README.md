@@ -1,6 +1,6 @@
 > Tom sang most of the time, but it was chiefly nonsense, or else perhaps a strange language unknown to the hobbits, an ancient language whose words were mainly those of wonder and delight.
 
-Bombadillo is a simple invented language inspired by the [songs](https://allpoetry.com/Tom-Bombadil's-Song) and speech of Tom Bombadil, from The Lord of the Rings. "Bombadillo" means song, and should be spoken in a musical, full, [woody](http://montypython.50webs.com/scripts/Series_4/23.htm) way, with a bias toward Anapestic emphasis (u u /, e.g., "understand").
+Bombadillo is a simple invented language inspired by the [songs](https://allpoetry.com/Tom-Bombadil's-Song) and speech of [Tom Bombadil](https://www.thetolkienforum.com/wiki/Tom-Bombadil), from The Lord of the Rings. "Bombadillo" means song, and should be spoken in a musical, full, [woody](http://montypython.50webs.com/scripts/Series_4/23.htm) way, with a bias toward Anapestic emphasis (u u /, e.g., "understand").
 
 # Sample
 
