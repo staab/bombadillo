@@ -1,6 +1,10 @@
 > Tom sang most of the time, but it was chiefly nonsense, or else perhaps a strange language unknown to the hobbits, an ancient language whose words were mainly those of wonder and delight.
 
-Bombadillo is a simple invented language inspired by the [songs](https://allpoetry.com/Tom-Bombadil's-Song) and speech of [Tom Bombadil](https://www.thetolkienforum.com/wiki/Tom-Bombadil), from The Lord of the Rings. "Bombadillo" means song, and should be spoken in a musical, full, [woody](http://montypython.50webs.com/scripts/Series_4/23.htm) way, with a bias toward Anapestic emphasis (u u /, e.g., "understand").
+Bombadillo is a simple invented language inspired by the [songs](https://allpoetry.com/Tom-Bombadil's-Song) and speech of [Tom Bombadil](https://www.thetolkienforum.com/wiki/Tom-Bombadil), from The Lord of the Rings.
+
+This language is meant to aid poets in expressing their "wonder and delight", especially in the comforts of home, nature, and other peaceful pursuits. Bombadillo shuns the harness of scientific accuracy; it knows nothing of the works of men's hands, of numbers, tools, or reason; and it abhors perversion, evil, and darkness.
+
+"Bombadillo" means song, and should be spoken in a musical, full, [woody](http://montypython.50webs.com/scripts/Series_4/23.htm) way, with a bias toward Anapestic emphasis (u u /, e.g., "understand").
 
 # Sample
 
@@ -56,7 +60,7 @@ Non-discrete nouns take plural endings, rather than singular.
 | warp-         | dew, rain                                     |
 | bow-          | crack, gap, hole                              |
 | pin-          | pine needle, blade of grass                   |
-| vint-         | scent, mist, fog                              |
+| vint-         | scent, mist, fog, musk                        |
 | brend-        | bark, skin                                    |
 | ringd-        | sky, clear air                                |
 | rum-          | dirt, ground, humus                           |
@@ -64,6 +68,7 @@ Non-discrete nouns take plural endings, rather than singular.
 | roon-         | fruit, produce                                |
 | tundr-        | foot, leg                                     |
 | fal-          | flower, shrub                                 |
+| rumbl-        | hill, mound                                   |
 +---------------+-----------------------------------------------+
 ```
 
@@ -91,6 +96,7 @@ Adjectives always come before the noun they accompany, and only take singular en
 | mi-           | little                                        |
 | dubb-         | springy, soft                                 |
 | send-         | quiet, peaceful                               |
+| fin-          | cold, refreshing, brisk                       |
 +---------------+-----------------------------------------------+
 ```
 
@@ -140,6 +146,8 @@ Objects of prepositions may take any case, depending on the preposition. Case is
 ```
 
 ## Conjunctions
+
+Ar can be used to emphasize a preceding word, e.g. "again and again" might be "dildim ar".
 
 ```
 +--------+------+
