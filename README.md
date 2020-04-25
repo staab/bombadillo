@@ -31,7 +31,7 @@ Bombadillo's grammar works on a Latin-like ending system. There is only one decl
 ```
 Declension                            Conjugation
 
-             S.   P.                                 S.     P.
+             S.   P.                                  S.     P.
            +-----+-------+                           +------+--------+
 Nominative | -a  | -ar   |            1st/3rd Person | -bim | -billo |
 Genitive   | -er | -erry |                2nd Person | -dim | -dillo |
@@ -57,6 +57,7 @@ Non-discrete nouns take plural endings, rather than singular.
 +---------------+-----------------------------------------------+
 | ind-          | tree                                          |
 | din-          | sunlight                                      |
+| fin-          | star, jewel                                   |
 | warp-         | dew, rain                                     |
 | bow-          | crack, gap, hole                              |
 | pin-          | pine needle, blade of grass                   |
@@ -69,6 +70,8 @@ Non-discrete nouns take plural endings, rather than singular.
 | tundr-        | foot, leg                                     |
 | fal-          | flower, shrub                                 |
 | rumbl-        | hill, mound                                   |
+| bomabend-     | music, song                                   |
+| mulbalend-    | communion, party, gathering                   |
 +---------------+-----------------------------------------------+
 ```
 
@@ -91,6 +94,7 @@ Adjectives always come before the noun they accompany, and only take singular en
 +---------------+-----------------------------------------------+
 | en-           | new, nascent, fresh                           |
 | sun-          | deep, thick                                   |
+| sundelb-      | azure, sparkling                              |
 | sim-          | shallow, thin                                 |
 | fan-          | tall, long                                    |
 | mi-           | little                                        |
@@ -110,7 +114,7 @@ Adjectives always come before the noun they accompany, and only take singular en
 | bello-        | ascend, awaken, grow                          |
 | bomba-        | sing, call, shout, beckon                     |
 | banda-        | dance, jump                                   |
-| follawil-     | dig, burrow                                   |
+| follawil-     | dig, burrow, hide                             |
 | twin-         | weave, mix, confuse                           |
 | gro-          | hold, restrain, cherish                       |
 | dar-          | shine, emit, produce, bear                    |
@@ -140,6 +144,7 @@ Objects of prepositions may take any case, depending on the preposition. Case is
 | oma    | dat.    | into                  |
 | nen    | abl.    | above                 |
 | nun    | abl.    | under, below          |
+| nor    | dat.    | for the purpose of    |
 | o      | gen.    | in, on, among, with   |
 | a      | abl.    | when, where           |
 +--------+---------+-----------------------+
@@ -152,6 +157,7 @@ Ar can be used to emphasize a preceding word, e.g. "again and again" might be "d
 ```
 +--------+------+
 | ar     | and  |
+| ne     | but  |
 | aught  | or   |
 | ith    | not  |
 +--------+------+
