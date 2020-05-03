@@ -47,7 +47,7 @@ Subordinate clauses, whether object, object of the preposition, or adverbial cla
 
 # Vocabulary
 
-Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sun brendar vinello twinden". An old-growth pine could be "tall needle-holder", or "fan pinello groden". A squirrel might be a "dubb sinda bomden", or "talkative fat fellow".
+Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Names don't exist in Bombadillo; instead, specific people or things can be referred to using something like kennings. Old Man Willow might be "thick-barked fog-weaver", or "sun brendar vinello twinden". An old-growth pine could be "tall needle-holder", or "fan pinello groden". A squirrel might be a "breen sinda bomden", or "talkative fat fellow".
 
 ## Nouns
 
@@ -58,7 +58,7 @@ Non-discrete nouns take plural endings, rather than singular.
 | ind-          | tree                                          |
 | din-          | sunlight                                      |
 | fin-          | star, jewel                                   |
-| warp-         | dew, rain                                     |
+| warp-         | dew, rain, running water                      |
 | bow-          | crack, gap, hole                              |
 | pin-          | pine needle, blade of grass                   |
 | vint-         | scent, mist, fog, musk                        |
@@ -98,7 +98,7 @@ Adjectives always come before the noun they accompany, and only take singular en
 | sim-          | shallow, thin                                 |
 | fan-          | tall, long                                    |
 | mi-           | little                                        |
-| dubb-         | springy, soft                                 |
+| breen-        | springy, soft                                 |
 | send-         | quiet, peaceful                               |
 | fin-          | cold, refreshing, brisk                       |
 +---------------+-----------------------------------------------+
