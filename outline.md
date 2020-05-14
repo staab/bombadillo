@@ -1,53 +1,46 @@
-# Notes
-
-Infinitives seem to be a grammatical rather than linguistic construct; remove it in favor of moods, like subjunctive. Gerunds, however, can be used as a formula for converting verbs to nouns.
-
-[Bird calls](https://nationalzoo.si.edu/scbi/migratorybirds/education/nasongkey.pl?bird=Common+Moorhen)
-
 # Introduction
 
-What follows is a short treatise on a discovered language which, for lack of a more accurate name, I will refer to as "Bombadillo", after Tom Bombadil. Though usage of the language is widespread, it is also diffuse. Tom is the only speaker of the language whose name we know.
+What follows is a short introduction to a discovered language which, for lack of a more accurate name, I will refer to as "Bombadillo", after Tom Bombadil. Though usage of the language is widespread, it is also diffuse. Tom is the only speaker of the language whose name we know.
 
-Though much (or all) within these pages is based purely upon supposition and guesswork, Bombadillo remains a linguistic curiosity well worth studying. As is famously recorded by the chronicler himself,
+Though much (or all) within these pages is based purely upon supposition and guesswork, Bombadillo remains a linguistic curiosity well worth studying. As is famously recorded in the Red Book of Westmarch,
 
 > Tom sang most of the time, but it was chiefly nonsense, or else perhaps a strange language unknown to the hobbits, an ancient language whose words were mainly those of wonder and delight.
 
-Though the breadth of experience of the good life is as varied as the people that live it, there are very few words passed down to us. In part, this is because our knowledge of the language has been received entirely through oral tradition; there is no extant written work, and no known alphabet. As a result, contemporary Bombadillo poetry often borrows from the speaker's native alphabet when distilled into ink and paper.
+Though the "the good life" is as widespread and varied as the people that live it, there is very little of Bombadillo that has been passed down to us by these happy people. In part, this is because our knowledge of the language has been received entirely through oral tradition; there is no extant written work, and no known alphabet. For this reason we will borrow from the latin alphabet for the transcription of the poetry in this work. A pronunciation guide is provided in Appendix A.
 
-Another reason for its limited vocabulary lies in the malleability of the words we _do_ have. In many cases, the exact meaning of a given word may depend heavily on context. For example, the word _brend_ may mean either "bark" or "skin", and is often used to denote "sheath", "outer layer", "coating", or any number of related things. Interpretation or translation of Bombadillo poetry is thus its own art form. 
+Another reason for Bombadillo's limited vocabulary is the malleability of the words we _do_ have. In many cases, the exact meaning of a given word may depend heavily on context. For example, the word _brend_ may mean either "bark" or "skin", and is often used to denote "sheath", "outer layer", "coating", or any number of related things. Interpretation, or translation, of Bombadillo poetry is its own art form, and is in fact a part of very composition itself.
 
 Nevertheless, despite its limitations, "wonder and delight" exudes from any poem composed in Bombadillo, even those composed by amateurs, so suited is the medium for its subject. Consider the following passage,
 
 ```
-miar sindar ber lildillo bel
-o piner brenderry
-ar follawildillo
-o warper rumdillo
-ar grodillo delloden dinello
+sindinor, bindo lildillo bor
+o brendilpilben
+ar follawildillo o rumilpilben
+groderry dinellodilta
 ```
 
-Roughly translated into Westron it reads:
+Roughly translated it reads:
 
 ```
 My little folk, wrap yourselves
 in leafy bark
 and dig in dewy earth
-and grasp the fading sunshine
+so you may grasp the fading sunshine
 ```
 
-Of particular focus within Bombadillo poetry are the habits of nature, the comforts of home, and other peaceful pursuits. Bombadillo shuns the harness of scientific accuracy; it knows nothing of the works of men's hands, of numbers, tools, or reason; and it abhors perversion, evil, and darkness.
+Of particular focus within Bombadillo poetry are the habits of nature, the comforts of home, and other peaceful pursuits. Bombadillo shuns the harness of scientific accuracy; it knows nothing of the works of men's hands: of numbers, tools, or reason; and it abhors perversion, evil, and darkness.
 
-Many selections of Bombadillo poetry are included in this book, along with translations into the Common tongue, where relevant. The ambitious reader is invited to skim through Appendix A of this book before continuing, which gives a short primer on Bombadillo's grammar. Appendix B includes a reference of known vocabulary, along with any relevant notes for particular words.
+Many selections of Bombadillo poetry are included in this book, along with translations into English, where relevant. The ambitious reader is invited to skim through Appendix A of this book before continuing, which gives a short primer on Bombadillo's grammar. Appendix B includes a reference of known vocabulary, along with any relevant notes for particular words.
 
 # In Nature
 
-One of the strangest things about Bombadillo is how primitive and essential a tongue it seems to be. Though not in current use among civilized people, it is far from dead like the ones once spoken by those buried in ornate tombs. Bombadillo does not only compel its poets to meditate on the delights of Creation, the inverse also seems to be true. That is, in many cases throughout Middle-Earth, nature itself frames its utterances in Bombadillo.
+One of the strangest things about Bombadillo is how primitive and essential a tongue it is. Though not in current use among civilized people, it is far from dead. Bombadillo does not only compel its poets to meditate on the delights of Creation, the inverse also seems to be true. That is, in many cases throughout Middle-Earth, nature itself frames its utterances in Bombadillo.
 
-For example, Kingbirds have rightly earned the nickname "Tyrannus" because of their assertiveness in aerial combat. Kingbirds will sometimes protect their nests by attacking a larger predator like a hawk, landing on its back, and pecking at its head — all in mid-flight. But the song of the Kingbird, which can be roughly described as an "o-breer" sound, reveals another side of their nature. With some minor adjustments, this can be rendered in Bombadillo as "[something]", which means simply "[meaning]". Behind the desperate military precision of the Kingbird's attack is a joy and possessiveness of its own nest.
+For example, Kingbirds have rightly earned the nickname "Tyrannus" because of their assertiveness in aerial combat. Kingbirds will sometimes protect their chicks by attacking a larger predator like a hawk, landing on its back, and pecking at its head — all in mid-flight. But the song of the Kingbird, which can be roughly transcribed as "o-breer", reveals another side of their nature. With some minor adjustments, this can be rendered in Bombadillo as "o breeler", which means simply "at home", or "in the nest". Behind the desperate military precision of the Kingbird's attack is a joy and possessiveness of those taking refuge in its nest.
 
-Likewise, Bombadillo can be heard in the ululation of Coyotes. When they howl "ra ra roo-oonar" at the moon, they are literally praying for "very much produce" — perhaps they are looking forward to an abundant harvest; coyotes often forage for fruits and vegetables as well as predate. This could explain the Coyote's use in some cultures as a symbol of abundance, optimism, and carelessness.
+Likewise, Bombadillo can be heard in the ululation of Coyotes. When they howl "run-ar-ar-or" at the moon, they are literally praying for "very much produce" — perhaps they are looking forward to an abundant harvest; coyotes often forage for fruits and vegetables as well as predate. This could explain the Coyote's use in some cultures as a symbol of abundance, optimism, and carelessness.
 
-Bombadillo's appearance in nature is not limited only to animate things; its onomatopoeia can be heard when the wind blows through the trees ("a preener pinerry"), and in the burbling of water downhill ("sundelbel warpello"), in the buzzing of bees at harvest ("whoom embor"), and in the sound of a spring thunderstorm ("brumbombor trundollo"). 
+Bombadillo's appearance in nature is not limited only to animate things; its onomatopoeia can be heard when the wind blows through the trees ("a preenal pinello"), and in the burbling of water downhill ("riplandadiltalta"), in the buzzing of bees at harvest ("whoom embor"), and in the sound of a spring thunderstorm ("brumbombor trundollo"). 
 
 # Origins
 
@@ -67,7 +60,7 @@ At this point, there is only one explanation that can account for the many place
 
 But one fact remains that suggests that Bombadillo, more than other tongues, deserves a place of privilege in the song of the world, which is the prevailing use of the Jussive mood, which expresses a command given by the speaker not to the hearer, but to the subject of the sentence. Though the purpose of poetry in any form is to illuminate metaphysical truth embedded in physical world, Bombadillo is unique in seeking to compost those same truths back into the world they were discovered in. There is evidence too, that this idea is not itself mere poetry. But more on that in the next chapter.
 
-It must first be made clear that this effect does not flow in a single direction, nor is it a tool for imposing the poet's will upon his fellow creatures. To do so would be to follow in the steps of Melkor, reducing that which embodies the harmonies of Creation to something as crass as witchcraft. Rather, Bombadillo is a medium of mutuality, allowing the person of the poet to assert himself while simultaneously humbling him to the timeless habits of Creation. Consider the following poem:
+It must first be made clear that this effect does not flow in a single direction, nor is it a tool for imposing the poet's will upon his fellow creatures. To do so would be to follow in the steps of Melkor, reducing that which embodies the harmonies of Creation to something as crass as witchcraft. Rather, Bombadillo is a medium of mutuality, allowing the person of the poet to assert himself while simultaneously humbling him to the timeless habits of Creation.
 
 [poem]
 
@@ -75,7 +68,7 @@ This song does not describe an act of taking, forcing, coercion, or deceit; it i
 
 # Miracles
 
-Though Bombadillo is rarely spoken in the same places where people record histories in writing, there are stories and anecdotes told among those who care for such things of the power of its spoken word, many of are commemorated in _[The Adventures of Tom Bombadil](http://www.ae-lib.org.ua/texts-c/tolkien__the_adventures_of_tom_bombadil__en.htm)_.
+Though Bombadillo is rarely spoken in the same places where people record histories in writing, there are stories of the power of its spoken word, many of are commemorated in _[The Adventures of Tom Bombadil](http://www.ae-lib.org.ua/texts-c/tolkien__the_adventures_of_tom_bombadil__en.htm)_.
 
 In the titular poem, Tom is recorded as using his voice to overcome various adversaries, including Old Man Willow, a Badger, and a Barrow-Wight.
 
@@ -86,23 +79,6 @@ Farmer Maggot, Smeagol's people, elves of Mirkwood?
 It can be considered a cousin of the Copenhagen interpretation of quantum mechanics.
 
 # Appendix A — Grammar
- 
-- Number — adjectives and adverbs are always singular, and precede the noun/verb
-- Pronouns
-- Genders - each has its own declension
-  - Masculine is earthy/woody like Bombadil
-  - Feminine is rainy like Goldberry
-  - Instead, re-read the creation account and find a theme; maybe divine/earthy; immortal/mortal?
-- Nouns
-- Adjectives
-- Adverbs
-- Gerunds - how to noun-ify a verb
-- Subjunctive mood and dependent clauses. Nouns retain the case required by the independent clause.
-- Prepositions
-- Conjunctions
-- Interrogative mood
-- Word order
-  - The subject often goes at the end of the sentence, as a sentence is like a contract, executed by invoking the subject.
 
 ## Verbs
 
@@ -112,17 +88,17 @@ There are two conjugations, Jussive, and Subjunctive. The prevailing mood of Bom
 
 ```
                    Jussive           Subjunctive
-                   
-                 S.     P.          S.     P. 
+
+                 S.     P.          S.     P.
                +------+--------+  +------+--------+
 1st Person     | -bim | -billo |  | -ber | -berry |
 2nd/3rd Person | -dim | -dillo |  | -der | -derry |
                +------+--------+  +------+--------+
 ```
 
-Verbs may be converted into nouns by appending "-den" to the verb root, followed by the appropriate noun ending (this is known as a gerund). Pronouns are also adapted from conjugations; b- and d- are the noun stems for 1st and 2nd/3rd person, respectively.
+Verbs may be converted into nouns by appending "d" to the verb root, followed by the appropriate masculine noun ending (also known as a gerund). Pronouns are also adapted from conjugations; b- and d- are the noun stems for 1st and 2nd/3rd person, respectively. The gender of the pronoun is borrowed from the noun it stands in for.
 
-There are no linking verbs in Bombadillo; verbs that have a sense of "is" or "be" assign the accusative case to their direct object as usual. Conjunctions provide the meaning for linking clauses together. If the meaning is not important, as in the case of "and" or "then", it should be omitted.
+There are no linking verbs in Bombadillo; verbs that have a sense of "is" or "be" assign the accusative case to their direct object as usual. Conjunctions provide the meaning for linking clauses together. If the meaning is not important, as in the case of "and" or "then", it may be omitted.
 
 ## Nouns
 
@@ -134,67 +110,81 @@ Nominative nouns are the subject of a sentence, genitives and datives are confla
 
 
 ```
-              Masculine               Feminine
+                      Masculine         Feminine
 
-                    S.   P.           S.     P.
-                  +-----+--------+  +------+------+
-Nominative        | -o  | -or    |  | a    | al   |
-Genitive/Dative   | -il | -ilden |  | en   | enta |
-Accusative        | -in | -indo  |  | ilt  | ilta |
-Ablative          | -al | -alden |  | alt  | alta |
-                  +-----+--------+  +------+------+
+                    S.     P.          S.     P.
+                  +------+--------+  +------+------+
+Nominative        | -o   | -or    |  | a    | al   |
+Genitive/Dative   | -il  | -ilben |  | er   | ello |
+Accusative        | -ing | -indo  |  | ilt  | ilta |
+Ablative          | -al  | -alden |  | alt  | alta |
+                  +------+--------+  +------+------+
 ```
 
-Adjectives are appended to the stem of the noun they modify, before the ending. So "thick topsoil" would be "rumuno". Conjunctions are not used to link nouns, only to link clauses. Non-discrete nouns take plural endings, rather than singular.
+Adjectives are appended to the stem of the noun they modify, before the ending. So "thick topsoil" would be "rumuno". Adjectives can be used as substantives with no modification, taking feminine endings. Conjunctions are not used to link nouns, only to link clauses. Non-discrete nouns take plural endings, rather than singular.  Nouns (and gerunds) can be converted into adjectives by dropping any leading consonants from the stem.
 
-# Pronunciation
-
-
-
-# Vocabulary
+# Appendix B - Vocabulary
 
 Bombadillo's vocabulary lacks some precision, as it's a language meant for delight, and seeing good things anew, rather than for understanding, naming, or knowing (as Tom Bombadil, The Master, doubtless does as well). Therefore, most words have multiple different senses attached to them, to be understood by context. If the sense isn't clear from context, the hearer is always invited to join with the poet in creating the song by providing his own interpretation.
 
 Names from other languages should be translated using kennings, or a stand-in proper noun, rather than transliterated directly.
 
+## Pronunciation
+
+Bombadillo, as a primarily spoken tongue, has no alphabet. Everything here is transliterated into english, with the following guidelines:
+
+- "u" sounds like "oo"
+- "o" sounds like "oh"
+- "a" is long, "ah"
+- "i" is a short "i" sound
+- "e" is a short "e" sound
+- "ee" is a long "e" sound
+
 ## Nouns
 
 ```
-+---------------+-----------------------------------------------+
-| ind-          | tree                                          |
-| din-          | sunlight                                      |
-| fin-          | star, jewel                                   |
-| warp-         | dew, rain, running water                      |
-| bow-          | crack, gap, hole                              |
-| pin-          | pine needle, blade of grass                   |
-| vint-         | scent, mist, fog, musk                        |
-| brend-        | bark, skin                                    |
-| ringd-        | sky, clear air                                |
-| rum-          | dirt, ground, humus                           |
-| sind-         | fellow, person, animal                        |
-| roon-         | fruit, produce                                |
-| tundr-        | foot, leg                                     |
-| fal-          | flower, shrub                                 |
-| rumbl-        | hill, mound                                   |
-| bomabend-     | music, song                                   |
-| mulbalend-    | communion, party, gathering                   |
-+---------------+-----------------------------------------------+
++---------------+---+-----------------------------------------------+
+| ind-          | F | tree                                          |
+| din-          | F | sunlight                                      |
+| fin-          | F | star, jewel                                   |
+| ripl-         | F | dew, rain, running water                      |
+| wond-         | F | ocean, lake, firmament                        |
+| breel         | F | home, nest, hole, crack                       |
+| pin-          | M | pine needle, blade of grass                   |
+| vint-         | M | scent, mist, fog, musk                        |
+| brend-        | M | bark, skin, clothing, covering                |
+| ringd-        | F | sky, clear air                                |
+| rum-          | M | dirt, ground, humus                           |
+| sind-         | M | fellow, person, animal                        |
+| farl-         | F | angel, essence                                |
+| run-          | M | fruit, produce                                |
+| tundr-        | M | foot, leg, wing                               |
+| fal-          | M | flower, shrub                                 |
+| rumbl-        | M | hill, mound                                   |
+| mulb-         | M | communion, party, gathering                   |
+| tom-          | M | master, lord                                  |
+| tend-         | F | canopy, cloud                                 |
+| bumb-         | M | boat, lilypad                                 |
+| fremb-        | M | fire, flame                                   |
++---------------+---+-----------------------------------------------+
 ```
 
 ## Adjectives
 
 ```
 +----------------+-----------------------------------------------+
-| -en-           | new, nascent, fresh                           |
-| -un-           | deep, thick                                   |
+| -enb-          | new, nascent, fresh                           |
+| -und-          | deep, thick                                   |
 | -el-           | azure, sparkling                              |
 | -im-           | shallow, thin                                 |
-| -an-           | tall, long                                    |
+| -am-           | tall, long                                    |
 | -in-           | little                                        |
-| -een-          | springy, soft                                 |
+| -on-           | large, great, strong                          |
+| -un-           | springy, soft                                 |
 | -end-          | quiet, peaceful                               |
 | -inf-          | cold, refreshing, brisk                       |
 | -ith-          | not, non-, un-                                |
+| -ilp-          | leafy, dewy, fresh                            |
 +----------------+-----------------------------------------------+
 ```
 
@@ -214,6 +204,8 @@ Names from other languages should be translated using kennings, or a stand-in pr
 | dar-          | shine, emit, produce, bear                    |
 | neven-        | see, dream, smell, taste, touch               |
 | lil-          | wear, wrap oneself in                         |
+| preen-        | whisper, blow                                 |
+| lor-          | ride, stand upon                              |
 +---------------+-----------------------------------------------+
 ```
 
@@ -225,6 +217,7 @@ Names from other languages should be translated using kennings, or a stand-in pr
 | sun-          | deeply, thickly                                      |
 | sim-          | barely, lightly, slightly                            |
 | til-          | together                                             |
+| rar-          | very                                                 |
 +---------------+------------------------------------------------------+
 ```
 
@@ -247,10 +240,6 @@ Names from other languages should be translated using kennings, or a stand-in pr
 ```
 +--------+----------+
 | ne     | so that  |
+| ar     | and      |
 +--------+----------+
 ```
-
-# Contributing
-
-Want to write a poem in Bombadillo, but don't have the words? Want to correct my very informal use of linguistic terms? Submit a pull request!
-
