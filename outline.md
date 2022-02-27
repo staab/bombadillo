@@ -30,7 +30,7 @@ so you may grasp the fading sunshine
 
 Of particular focus within Bombadillo poetry are the habits of nature, the comforts of home, and other peaceful pursuits. Bombadillo shuns the harness of scientific accuracy; it knows nothing of the works of men's hands: of numbers, tools, or reason; and it abhors perversion, evil, and darkness.
 
-Many selections of Bombadillo poetry are included in this book, along with translations into English, where relevant. The ambitious reader is invited to skim through Appendix B of this book before continuing, which gives a short primer on Bombadillo's grammar. Appendix C includes a reference of known vocabulary, along with any relevant notes for particular words.
+Many selections of Bombadillo poetry are included in this book, along with translations into English, where relevant. The ambitious reader is invited to skim through Appendix B of this book before continuing, which gives a short primer on Bombadillo's grammar. Appendix C includes a reference of known vocabulary, along with any relevant notes for particular words. Finally, Appendix D includes a number of Bombadillo poems.
 
 ```
 bellodillo, lildillo o bombadilben dil
@@ -123,7 +123,7 @@ Bombadillo, as a primarily spoken tongue, has no alphabet. Everything here is tr
 
 ## Verbs
 
-Bombadillo's grammar works on an ending system, for both nouns and verbs. Second and third person are conflated, leaving only a distinction between I and everything else; if the speaker is addressing someone directly, it is inferred by context, or by prepending "o-" to the adressee. Adjectives are appended to the stem of the noun they modify, before the ending. So "grows a long time" would be "bellodildim".
+Bombadillo's grammar works on an ending system, for both nouns and verbs. Second and third person are conflated, leaving only a distinction between I and everything else; if the speaker is addressing someone directly, it is inferred by context, or by prepending "o-" to the adressee. Adjectives are appended to the stem of the noun they modify, before the ending. So "grows a long time" would be "bellodildim", "bello-" meaning "grows", "dil" meaning "again", and "dim" being the 2nd person singular Jussive ending.
 
 There are two conjugations, Jussive, and Subjunctive. The prevailing mood of Bombadillo is Jussive. Subjunctive endings are used for any kind of dependent clause. If the subject of a dependent clause also fills a role in the independent clause, its case should match its role in the independent clause. There is no "realis" mood, that is, the indicative. If an indicative sense is desired, Jussive or Subjunctive may be used instead depending on the function of the verb. There is no passive voice in Bombadillo.
 
@@ -162,7 +162,7 @@ Ablative          | -al  | -alden |  | alt  | alta |
                   +------+--------+  +------+------+
 ```
 
-Adjectives are appended to the stem of the noun they modify, before the ending. So "thick topsoil" would be "rumuno". Adjectives can be used as substantives with no modification, taking feminine endings. Conjunctions are not used to link nouns, only to link clauses. Non-discrete nouns take plural endings, rather than singular.  Nouns (and gerunds) can be converted into adjectives by dropping any leading consonants from the stem.
+Adjectives are appended to the stem of the noun they modify, before the ending. So "thick topsoil" would be "rumuno", "rum-" meaning dirt, "un" meaning "soft", and "o" being the singular masculine nominative ending. Adjectives can be used as substantives with no modification, taking feminine endings. Conjunctions are not used to link nouns, only to link clauses. Non-discrete nouns take plural endings, rather than singular.  Nouns (and gerunds) can be converted into adjectives by dropping any leading consonants from the stem.
 
 # Appendix C - Vocabulary
 
@@ -281,3 +281,9 @@ Names from other languages should be translated using kennings, or a stand-in pr
 | ar     | and      |
 +--------+----------+
 ```
+
+# Appendix D — Poetry Samples
+
+What follows are samples of Bomdadillo poetry illustrating the peculiar beauty and flexibility of the language. Bombadillo poetry is best read out loud, in the presence of others, at any time of year. Rough translations are provided.
+
+
