@@ -12,27 +12,35 @@ While many words that once existed in Bombadillo have no doubt been lost, anothe
 
 Despite its limitations, "wonder and delight" exudes from any poem composed in Bombadillo, even those composed by amateurs, so suited is the medium for its subject. Consider the following passage,
 
-> sindinor bilben, dindo lildillo
-> o brendilpilben
-> ar follawildillo o rumilpilben
-> groderry dinellodilta
+```
+sindinor bilben, dindo lildillo
+o brendilpilben
+ar follawildillo o rumilpilben
+groderry dinellodilta
+```
 
 Roughly translated it reads:
 
-> My little folk, wrap yourselves
-> in leafy garments
-> and dig in dewy earth
-> so you may grasp the fading sunshine
+```
+My little folk, wrap yourselves
+in leafy garments
+and dig in dewy earth
+so you may grasp the fading sunshine
+```
 
 Of particular focus within Bombadillo poetry are the habits of nature, the comforts of home, and other peaceful pursuits. Bombadillo shuns the harness of scientific accuracy; it knows nothing of the works of men's hands: of numbers, tools, or reason; and it abhors perversion, evil, and darkness.
 
 Many selections of Bombadillo poetry are included in this book, along with translations into English, where relevant. The ambitious reader is invited to skim through Appendix B of this book before continuing, which gives a short primer on Bombadillo's grammar. Appendix C includes a reference of known vocabulary, along with any relevant notes for particular words. Finally, Appendix D includes a number of Bombadillo poems.
 
-> bellodillo, lildillo o bombadilben dil
-> nevenderry farlenbilta o rumilben
+```
+bellodillo, lildillo o bombadilben dil
+nevenderry farlenbilta o rumilben
+```
 
-> come here, wrap yourself in these songs,
-> so that you may see a new soul in the world
+```
+come here, wrap yourself in these songs,
+so that you may see a new soul in the world
+```
 
 # In Nature
 
@@ -70,17 +78,21 @@ But one fact remains which suggests that Bombadillo, more than other tongues, de
 
 It must first be made clear that this effect does not flow in a single direction, nor is it a tool for imposing the poet's will upon his fellow creatures. To do so would be to follow in the steps of Melkor, reducing that which embodies the harmonies of Creation to something crass, even to witchcraft. Rather, Bombadillo is a medium of mutuality, allowing the person of the poet to assert himself while simultaneously humbling him to the timeless habits of Creation.
 
-> tomono indardello lorsunbim
-> nen twindalden rumblonilben rumblaltilben
-> bellobim, bandasundillo
-> nun bardalden
-> er frembundonalden tenalta
+```
+tomono indardello lorsunbim
+nen twindalden rumblonilben rumblaltilben
+bellobim, bandasundillo
+nun bardalden
+er frembundonalden tenalta
+```
 
-> lord of the bearded trees, I stand resolute
-> above the crossroads of strong mountain and tall mountain
-> I sing, they perform a solemn dance
-> under the moss
-> between the deep fire and clouds.
+```
+lord of the bearded trees, I stand resolute
+above the crossroads of strong mountain and tall mountain
+I sing, they perform a solemn dance
+under the moss
+between the deep fire and clouds.
+```
 
 This song does not describe an act of taking, forcing, coercion, or deceit; it is a marrying of two wills in a single purpose in creating a new, third thing. Hence a poem written in Bombadillo should be considered both as an act of friendship with its subject as well as an act of sub-creation, of investing emergent meaning back into this world, using its own resonance as the medium.
 
@@ -90,14 +102,18 @@ Though Bombadillo is rarely spoken in the same places where people record histor
 
 In the titular poem, Tom is recorded as using his voice to overcome various adversaries, including Old Man Willow, a Badger, and a Barrow-Wight. In each case, simply hearing the Master speak is enough to frustrate their plans:
 
-> You let me out again, Old Man Willow!
-> I am stiff lying here; they're no sort of pillow,
-> your hard crooked roots. Drink your river-water!
-> Go back to sleep again like the River-daughter!'
+```
+You let me out again, Old Man Willow!
+I am stiff lying here; they're no sort of pillow,
+your hard crooked roots. Drink your river-water!
+Go back to sleep again like the River-daughter!'
+```
 
-> Willow-man let him loose when he heard him speaking;
-> locked fast his wooden house, muttering and creaking,
-> whispering inside the tree.
+```
+Willow-man let him loose when he heard him speaking;
+locked fast his wooden house, muttering and creaking,
+whispering inside the tree.
+```
 
 But it seems that this power of language is not limited to Tom's use, though it is less completely — and endearingly - evident in other places.
 
@@ -294,67 +310,83 @@ What follows are samples of Bomdadillo poetry illustrating the peculiar beauty a
 
 ## Elundello
 
-> dina limulelundello
-> twinderry oma maturnil berello
-> dardildillo o mulbendilben
+```
+dina limulelundello
+twinderry oma maturnil berello
+dardildillo o mulbendilben
+```
 
 Translation:
 
-> The glow of sparkling-thick honey
-> Soaking into corn bread,
-> Shine again in quiet conversation
+```
+The glow of sparkling-thick honey
+Soaking into corn bread,
+Shine again in quiet conversation
+```
 
 ## Bandadildillo 
 
-> nevendim vintindo pinilben
-> nevendim dinilta ringdello
-> nevendim tundrindo o rumunilben
-> bandadildillo bilben
+```
+nevendim vintindo pinilben
+nevendim dinilta ringdello
+nevendim tundrindo o rumunilben
+bandadildillo bilben
+```
 
 Translation:
 
-> Taste the scent of grass
-> Hear the sky's sunlight
-> Feel your feet on the springy ground
-> Dance with us a while
+```
+Taste the scent of grass
+Hear the sky's sunlight
+Feel your feet on the springy ground
+Dance with us a while
+```
 
 ## Dininfello
 
 _Note that this poem runs against the grain of the language, in describing darkness and evil, that is, barrow-wights. This is an abuse of the language, but it's interesting to see its limits._
 
-> nun rumblor rumilben
-> sindaltinor
-> o vintil brendil
-> dellobillo
-> lilbillo bindo o dininfello
-> dilbillo ar
+```
+nun rumblor rumilben
+sindaltinor
+o vintil brendil
+dellobillo
+lilbillo bindo o dininfello
+dilbillo ar
+```
 
 Translation:
 
-> Under hills of dirt
-> Long little creatures
-> with a skin of fog
-> fade
-> wrap ourselves in cold sunlight
-> again and again
+```
+Under hills of dirt
+Long little creatures
+with a skin of fog
+fade
+wrap ourselves in cold sunlight
+again and again
+```
 
 ## Nevendim o bil
 
-> nevendim o bil
->   dellodim oma brendil bil
->   twindim o ringder bil
->   bellodim o bil
-> dinal bandadillo o breelendello
-> dellobillo waydor rumilpor
+```
+nevendim o bil
+  dellodim oma brendil bil
+  twindim o ringder bil
+  bellodim o bil
+dinal bandadillo o breelendello
+dellobillo waydor rumilpor
+```
 
 Translation:
 
-> Dream with me
->   sink into my skin
->   mingle with my breath
->   awaken with me
-> Sunlight, shimmer in our quiet place
-> We sleep like the dewy earth
+```
+Dream with me
+  sink into my skin
+  mingle with my breath
+  awaken with me
+Sunlight, shimmer in our quiet place
+We sleep like the dewy earth
+```
 
 
 
