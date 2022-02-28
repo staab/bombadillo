@@ -12,35 +12,27 @@ While many words that once existed in Bombadillo have no doubt been lost, anothe
 
 Despite its limitations, "wonder and delight" exudes from any poem composed in Bombadillo, even those composed by amateurs, so suited is the medium for its subject. Consider the following passage,
 
-```
-sindinor bilben, dindo lildillo
-o brendilpilben
-ar follawildillo o rumilpilben
-groderry dinellodilta
-```
+> sindinor bilben, dindo lildillo
+> o brendilpilben
+> ar follawildillo o rumilpilben
+> groderry dinellodilta
 
 Roughly translated it reads:
 
-```
-My little folk, wrap yourselves
-in leafy garments
-and dig in dewy earth
-so you may grasp the fading sunshine
-```
+> My little folk, wrap yourselves
+> in leafy garments
+> and dig in dewy earth
+> so you may grasp the fading sunshine
 
 Of particular focus within Bombadillo poetry are the habits of nature, the comforts of home, and other peaceful pursuits. Bombadillo shuns the harness of scientific accuracy; it knows nothing of the works of men's hands: of numbers, tools, or reason; and it abhors perversion, evil, and darkness.
 
 Many selections of Bombadillo poetry are included in this book, along with translations into English, where relevant. The ambitious reader is invited to skim through Appendix B of this book before continuing, which gives a short primer on Bombadillo's grammar. Appendix C includes a reference of known vocabulary, along with any relevant notes for particular words. Finally, Appendix D includes a number of Bombadillo poems.
 
-```
-bellodillo, lildillo o bombadilben dil
-nevenderry farlenbilta o rumilben
-```
+> bellodillo, lildillo o bombadilben dil
+> nevenderry farlenbilta o rumilben
 
-```
-come here, wrap yourself in these songs,
-so that you may see a new soul in the world
-```
+> come here, wrap yourself in these songs,
+> so that you may see a new soul in the world
 
 # In Nature
 
@@ -68,7 +60,7 @@ Sophistication is not a cure for the influence of this primal language either. T
 
 In Quenya as well as Bombdillo, "alt" means "high" or "great"; "mat" means "food"; "penda" means to slope or incline. In Quenya "simpa" is a pipe or flute, while in Bombadillo the same word can refer to any musical instrument.
 
-English has its own debt to pay. Our word "barley" comes from the Old Norse word "barr", which in turn comes from the Bombadillo word "bere", meaning "grain". Similarly, the word "beard" comes from the Proto-Germanic "bard". The same word is used in Bombadillo to denote "moss", or "lichen", though that kind of beard is found on trees rather than men.
+English has its own debt to pay. Our word "barley" comes from the Old Norse word "barr", which in turn comes from the Bombadillo word "ber", meaning "grain". Similarly, the word "beard" comes from the Proto-Germanic "bard". The same word is used in Bombadillo to denote "moss", or "lichen", though that kind of beard is found on trees rather than men.
 
 Even Khuzdul, the stony language of the dwarves, borrows its word for gold, "limul" from Bombadillo (admittedly in Bombadillo the meaning is closer to "honey" than "gold").
 
@@ -78,21 +70,17 @@ But one fact remains which suggests that Bombadillo, more than other tongues, de
 
 It must first be made clear that this effect does not flow in a single direction, nor is it a tool for imposing the poet's will upon his fellow creatures. To do so would be to follow in the steps of Melkor, reducing that which embodies the harmonies of Creation to something crass, even to witchcraft. Rather, Bombadillo is a medium of mutuality, allowing the person of the poet to assert himself while simultaneously humbling him to the timeless habits of Creation.
 
-```
-tomono indardello lorsunbim
-nen twindalden rumblonilben rumblaltilben
-bellobim, bandasundillo
-nun bardalden
-er frembundonalden tenalta
-```
+> tomono indardello lorsunbim
+> nen twindalden rumblonilben rumblaltilben
+> bellobim, bandasundillo
+> nun bardalden
+> er frembundonalden tenalta
 
-```
-lord of the bearded trees, I stand resolute
-above the crossroads of strong mountain and tall mountain
-I sing, they perform a solemn dance
-under the moss
-between the deep fire and clouds.
-```
+> lord of the bearded trees, I stand resolute
+> above the crossroads of strong mountain and tall mountain
+> I sing, they perform a solemn dance
+> under the moss
+> between the deep fire and clouds.
 
 This song does not describe an act of taking, forcing, coercion, or deceit; it is a marrying of two wills in a single purpose in creating a new, third thing. Hence a poem written in Bombadillo should be considered both as an act of friendship with its subject as well as an act of sub-creation, of investing emergent meaning back into this world, using its own resonance as the medium.
 
@@ -100,13 +88,30 @@ This song does not describe an act of taking, forcing, coercion, or deceit; it i
 
 Though Bombadillo is rarely spoken in the same places where people record histories in writing, there are stories of the power of its spoken word, many of which are commemorated in _[The Adventures of Tom Bombadil](http://www.ae-lib.org.ua/texts-c/tolkien__the_adventures_of_tom_bombadil__en.htm)_.
 
-In the titular poem, Tom is recorded as using his voice to overcome various adversaries, including Old Man Willow, a Badger, and a Barrow-Wight.
+In the titular poem, Tom is recorded as using his voice to overcome various adversaries, including Old Man Willow, a Badger, and a Barrow-Wight. In each case, simply hearing the Master speak is enough to frustrate their plans:
 
-Farmer Maggot, Smeagol's people, elves of Mirkwood?
+> You let me out again, Old Man Willow!
+> I am stiff lying here; they're no sort of pillow,
+> your hard crooked roots. Drink your river-water!
+> Go back to sleep again like the River-daughter!'
 
-[insert quotes and analysis of the beginning of the Silmarillion to support this. Tell anecdotes of odd things that have happened when Bombadillo is spoken. Cite Tolkien's poem about Bombadil as evidence].
+> Willow-man let him loose when he heard him speaking;
+> locked fast his wooden house, muttering and creaking,
+> whispering inside the tree.
 
-It can be considered a cousin of the Copenhagen interpretation of quantum mechanics.
+But it seems that this power of language is not limited to Tom's use, though it is less completely — and endearingly - evident in other places.
+
+The Elves' own high culture seems to preserve most completely the power and dignity of this kind of language. The creative power of those early songs of creation seems to be the source of the elves' longevity and dignity, occupied as they are in all places with filling their forest homes with song and feast. Yet the creative power of the Ainur has even in the elves been reduced to the sustaining of a long, melancholy note as they increasingly set their faces to the West.
+
+But folk culture too has as much claim to the echoes of the Ainur as the high elves. Farmer Maggot, well known for his mastery in mushrooms, demonstrates the quiet strength that comes from an understanding of how the world works when he casually dismisses the black rider at his gate. We never hear him sing, but with at least five children we may imagine him presiding over more than one hobbit wedding feast.
+
+The one person we never hear sing, however, whom we might expect to, is Gandalf. He himself is a member of the Ainur, yet at no point is he known to join in the singing either of the Dwarves, or Hobbits, or Elves, or Men around him. Perhaps this silence is part of the gray covering he wears as he goes about his mission in Middle Earth. Perhaps his music is not the kind that can be heard, but only lived, as Illuvatar demonstrates to the Ainur the impact of their song.
+
+# Conclusion
+
+In this paper I hope that I have not provided too many answers. If my readers come away feeling that they understand the magic of language, or song, or poetry, I have failed. I certainly do not feel that I have anything like that understanding.
+
+My goal has been instead to instill in my readers a love for all created things, and where they have been corrupted, hope for their restoration. This is a work that we all are called by the songs resonating in nature itself to participate in, not through great edifices made by our own hands, but through the quiet harmony of word and song.
 
 # Appendix A - Pronunciation
 
@@ -175,7 +180,7 @@ Names from other languages should be translated using kennings, or a stand-in pr
 ```
 +---------------+---+-----------------------------------------------+
 | bard-         | M | beard, moss                                   |
-| bere-         | F | grain, rice, corn                             |
+| ber-          | F | grain, rice, corn                             |
 | breel-        | F | home, nest, hole, crack                       |
 | brend-        | M | bark, skin, clothing, covering                |
 | bumb-         | M | boat, lilypad                                 |
@@ -221,6 +226,7 @@ Names from other languages should be translated using kennings, or a stand-in pr
 | -on-           | large, great, strong                          |
 | -un-           | springy, soft                                 |
 | -und-          | deep, thick                                   |
+| -urn-          | warm                                          |
 +----------------+-----------------------------------------------+
 ```
 
@@ -285,5 +291,70 @@ Names from other languages should be translated using kennings, or a stand-in pr
 # Appendix D — Poetry Samples
 
 What follows are samples of Bomdadillo poetry illustrating the peculiar beauty and flexibility of the language. Bombadillo poetry is best read out loud, in the presence of others, at any time of year. Rough translations are provided.
+
+## Elundello
+
+> dina limulelundello
+> twinderry oma maturnil berello
+> dardildillo o mulbendilben
+
+Translation:
+
+> The glow of sparkling-thick honey
+> Soaking into corn bread,
+> Shine again in quiet conversation
+
+## Bandadildillo 
+
+> nevendim vintindo pinilben
+> nevendim dinilta ringdello
+> nevendim tundrindo o rumunilben
+> bandadildillo bilben
+
+Translation:
+
+> Taste the scent of grass
+> Hear the sky's sunlight
+> Feel your feet on the springy ground
+> Dance with us a while
+
+## Dininfello
+
+_Note that this poem runs against the grain of the language, in describing darkness and evil, that is, barrow-wights. This is an abuse of the language, but it's interesting to see its limits._
+
+> nun rumblor rumilben
+> sindaltinor
+> o vintil brendil
+> dellobillo
+> lilbillo bindo o dininfello
+> dilbillo ar
+
+Translation:
+
+> Under hills of dirt
+> Long little creatures
+> with a skin of fog
+> fade
+> wrap ourselves in cold sunlight
+> again and again
+
+## Nevendim o bil
+
+> nevendim o bil
+>   dellodim oma brendil bil
+>   twindim o ringder bil
+>   bellodim o bil
+> dinal bandadillo o breelendello
+> dellobillo waydor rumilpor
+
+Translation:
+
+> Dream with me
+>   sink into my skin
+>   mingle with my breath
+>   awaken with me
+> Sunlight, shimmer in our quiet place
+> We sleep like the dewy earth
+
 
 
